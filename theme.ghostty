@@ -1,0 +1,47 @@
+# Neon District: portable Ghostty theme.
+# Load with: config-file = neon-district/theme.ghostty
+# Relative paths below resolve from this folder.
+
+palette = 0=#23263a
+palette = 1=#ff4d7e
+palette = 2=#2bffa8
+palette = 3=#ffe45e
+palette = 4=#4da6ff
+palette = 5=#c58aff
+palette = 6=#1fe5f0
+palette = 7=#d6dcf5
+palette = 8=#7078a3
+palette = 9=#ff7a9c
+palette = 10=#7dffc8
+palette = 11=#fff29a
+palette = 12=#85c2ff
+palette = 13=#dcb3ff
+palette = 14=#7df4ff
+palette = 15=#ffffff
+background = #0b0c15
+foreground = #d6dcf5
+cursor-color = #ff2a6d
+cursor-text = #0b0c15
+selection-background = #51309a
+selection-foreground = #ffffff
+
+split-divider-color = #ff2a6d
+unfocused-split-opacity = 0.8
+
+window-padding-x = 14
+window-padding-y = 10
+window-padding-balance = true
+
+adjust-cell-height = 10%
+
+window-theme = ghostty
+window-titlebar-background = #0b0c15
+window-titlebar-foreground = #ff2a6d
+
+
+gtk-custom-css = cyberpunk.css
+
+background-image = images/grid.png
+background-image-fit = none
+background-image-repeat = true
+background-image-position = top-left
